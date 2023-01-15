@@ -1,16 +1,16 @@
 # French YouTube video trending analysis
 
-After getting my professional google certificate in Data Analytics, I used my new skills to solve a problem I encountered as a content creator on YouTube.
-We usually tend to see patterns for the successful videos that find themselves on the YouTube trending page, such as:
+I decided to put my newly acquired data analytics skills to the test by analyzing a problem that I encounter as a content creator on YouTube. Specifically, I wanted to identify patterns among the videos that successfully appear on the YouTube trending page.
 
-* Should we write our titles in CAPSLOCK
-* Does the number of views boost the probability of appearing on the trending page?
-* Does the number of comments increase the probability of appearing on the trending page?
-* Should you have more than a 95% ratio for your video success?
-* What is the best day to post your video to appear on the trending page?
-* What is the best time frame to post your video to appear on the trending page?
+Some of the key questions I aimed to answer included:
 
-Find out more on the Jupyter Notebook
+- Does writing titles in all caps increase the chances of a video appearing on the trending page?
+- Is there a correlation between the number of views and the probability of appearing on the trending page?
+- Is there a correlation between the number of comments and the probability of appearing on the trending page?
+- Does having a high percentage of likes to views ratio increase the chances of appearing on the trending page?
+- What is the best day and time frame for posting a video to increase the chances of appearing on the trending page?
+
+For more detailed information, please refer to the Jupyter Notebook for this analysis.
 
 <p>
   <br>
